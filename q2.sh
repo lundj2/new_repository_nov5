@@ -18,4 +18,3 @@ done
 echo "In step 4 I list all contents in my directory"
 ls
 echo "In step 5 I run my script using the 'bash' command in the terminal (line 2)"
-echo "I farted"
