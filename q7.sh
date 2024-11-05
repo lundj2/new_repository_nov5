@@ -1,0 +1,1 @@
+echo "FASTA files are a simple file format that is used to 
